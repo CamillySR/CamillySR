@@ -51,7 +51,7 @@ Meu interesse pela área surgiu após participar de um **hackathon de Análise d
 ## About Me
 
 🎓 I graduated in **Systems Analysis and Development (2024–2025)** and I am currently pursuing a degree in **Computer Science**.  
-📊 My main focus is **Data Science**, with interest in **Data Analysis, Databases, and data-related roles** (excluding data engineering).
+📊 My main focus is **Data Science**, with interest in **Data Analysis, Databases, and data-related roles**.
 
 My interest in data started after participating in a **Data Analysis hackathon**, where I gained hands-on experience with data cleaning, statistical analysis, and generating insights. Since then, I have been continuously improving my skills through practical projects, self-study, and specialized courses.
 
