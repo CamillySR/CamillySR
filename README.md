@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou a Camilly
 
 🎓 Sou formada em **Análise e Desenvolvimento de Sistemas (2024–2025)** e atualmente curso **Ciência da Computação**.  
-📊 Meu foco principal é **Ciência de Dados**, com interesse em **Análise de Dados, Banco de Dados e áreas relacionadas a dados** (exceto engenharia).
+📊 Meu foco principal é **Ciência de Dados**, com interesse em **Análise de Dados, Banco de Dados e áreas relacionadas a dados**.
 
 Meu interesse pela área surgiu após participar de um **hackathon de Análise de Dados**, onde tive contato prático com tratamento de dados, análise estatística e geração de insights. Desde então, venho me aprofundando continuamente por meio de projetos práticos, estudos independentes e cursos especializados.
 
