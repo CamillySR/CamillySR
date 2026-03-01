@@ -9,7 +9,7 @@ Tenho experiência com **SQL, Python e Power BI**, além de bibliotecas como **P
 
 Sou autodidata em **inglês**, com boa comunicação oral e escrita, e busco minha primeira oportunidade de **estágio em Ciência de Dados**, onde eu possa aprender, contribuir e evoluir profissionalmente.
 
-##👋 Hi! I’m Camilly
+## 👋 Hi! I’m Camilly
 
 I graduated in **Systems Analysis and Development (2024–2025)** and I am currently pursuing a degree in **Computer Science**.  
 My main focus is **Data Science**, with interest in **Data Analysis, Databases, and data-related roles** (excluding data engineering).
