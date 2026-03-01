@@ -23,12 +23,6 @@ I am **self-taught in English**, with strong communication skills, and I am curr
 ## 🌐 Onde me encontrar | How to find me
 
 <p align="center">
-  <a href="## 🌐 Onde me encontrar
-
-<p align="center">
-  <a href="www.linkedin.com/in/camillysilvaramos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:camillydsramos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="www.linkedin.com/in/camillysilvaramos">LinkedIn</a> •
+  <a href="mailto:canillydsramos@gmail.com">Email</a>
+</p>
