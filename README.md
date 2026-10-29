@@ -6,6 +6,7 @@
 Meu interesse pela área surgiu da minha paixão por tecnologia e da minha vontade constante de aprender, desenvolver soluções e aprimorar minhas habilidades. Desde então, venho aprofundando meus conhecimentos por meio de projetos práticos, estudos independentes e cursos especializados, buscando expandir minha experiência e explorar diferentes possibilidades dentro da TI.
 
 🔎 Busco atualmente uma oportunidade de estágio na área de TI, onde eu possa aplicar meus conhecimentos, adquirir experiência prática, contribuir com projetos reais e continuar evoluindo profissionalmente.
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
