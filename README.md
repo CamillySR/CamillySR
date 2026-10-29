@@ -56,6 +56,7 @@ Meu interesse pela área surgiu da minha paixão por tecnologia e da minha vonta
 My interest in the field stems from my passion for technology and my constant desire to learn, develop solutions, and improve my skills. Since then, I have continued expanding my knowledge through practical projects, independent learning, and specialized courses, aiming to gain experience and explore different opportunities within IT.
 
 🔎 I am currently seeking an IT internship opportunity where I can apply my knowledge, gain hands-on experience, contribute to real-world projects, and continue growing professionally.
+
 ---
 
 🌍 **Languages**  
