@@ -1,12 +1,11 @@
 ## 👋 Olá! Eu sou a Camilly
 
-🎓 Sou formada em **Análise e Desenvolvimento de Sistemas (2024–2025)** e atualmente curso **Ciência da Computação**.  
-📊 Meu foco principal é **Ciência de Dados**, com interesse em **Análise de Dados, Banco de Dados e áreas relacionadas a dados**.
+🎓 Sou formada em Análise e Desenvolvimento de Sistemas (2024–2025) e atualmente curso Ciência da Computação.
+💻 Meu foco principal é Tecnologia da Informação (TI), com interesse em Desenvolvimento de Software, Banco de Dados, Análise de Dados e áreas relacionadas à tecnologia.
 
-Meu interesse pela área surgiu após participar de um **hackathon de Análise de Dados**, onde tive contato prático com tratamento de dados, análise estatística e geração de insights. Desde então, venho me aprofundando continuamente por meio de projetos práticos, estudos independentes e cursos especializados.
+Meu interesse pela área surgiu da minha paixão por tecnologia e da minha vontade constante de aprender, desenvolver soluções e aprimorar minhas habilidades. Desde então, venho aprofundando meus conhecimentos por meio de projetos práticos, estudos independentes e cursos especializados, buscando expandir minha experiência e explorar diferentes possibilidades dentro da TI.
 
-🔎 Busco atualmente uma oportunidade de **estágio em Ciência de Dados**, onde eu possa aprender, contribuir e evoluir profissionalmente.
-
+🔎 Busco atualmente uma oportunidade de estágio na área de TI, onde eu possa aplicar meus conhecimentos, adquirir experiência prática, contribuir com projetos reais e continuar evoluindo profissionalmente.
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -28,10 +27,10 @@ Meu interesse pela área surgiu após participar de um **hackathon de Análise d
 ---
 
 ## 🌱 Atualmente estou aprendendo
-- Estatística aplicada à Ciência de Dados  
-- Análise Exploratória de Dados (EDA)  
-- Visualização de dados e dashboards  
-- Ciência de Dados com Python (DataCamp)
+- Aprofundamento em Banco de Dados 
+- C#
+- API 
+- .NET Core
 
 ---
 
@@ -50,13 +49,12 @@ Meu interesse pela área surgiu após participar de um **hackathon de Análise d
 
 ## About Me
 
-🎓 I graduated in **Systems Analysis and Development (2024–2025)** and I am currently pursuing a degree in **Computer Science**.  
-📊 My main focus is **Data Science**, with interest in **Data Analysis, Databases, and data-related roles**.
+🎓 I graduated in Systems Analysis and Development (2024–2025) and am currently pursuing a degree in Computer Science.
+💻 My main focus is Information Technology (IT), with an interest in Software Development, Databases, Data Analysis, and other technology-related fields.
 
-My interest in data started after participating in a **Data Analysis hackathon**, where I gained hands-on experience with data cleaning, statistical analysis, and generating insights. Since then, I have been continuously improving my skills through practical projects, self-study, and specialized courses.
+My interest in the field stems from my passion for technology and my constant desire to learn, develop solutions, and improve my skills. Since then, I have continued expanding my knowledge through practical projects, independent learning, and specialized courses, aiming to gain experience and explore different opportunities within IT.
 
-🔎 I am currently seeking a **Data Science internship**, where I can learn, contribute, and grow professionally.
-
+🔎 I am currently seeking an IT internship opportunity where I can apply my knowledge, gain hands-on experience, contribute to real-world projects, and continue growing professionally.
 ---
 
 🌍 **Languages**  
